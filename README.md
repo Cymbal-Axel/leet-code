@@ -1,1 +1,1 @@
- Este es un Repositorio donde voy dejando ejercicios hechos en https://leetcode.com
+ Este es un Repositorio donde voy dejando ejercicios hechos de https://leetcode.com
